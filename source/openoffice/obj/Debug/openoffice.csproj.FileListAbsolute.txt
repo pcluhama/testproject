@@ -1,0 +1,5 @@
+D:\openoffice\openoffice\bin\openoffice.dll
+D:\openoffice\openoffice\bin\openoffice.pdb
+D:\openoffice\openoffice\obj\Debug\openoffice.dll
+D:\openoffice\openoffice\obj\Debug\openoffice.pdb
+D:\openoffice\openoffice\obj\Debug\openoffice.csprojResolveAssemblyReference.cache
