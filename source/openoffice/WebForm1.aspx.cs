@@ -25,6 +25,7 @@ namespace openoffice
     public partial class WebForm1 : System.Web.UI.Page
     {
         //it is page_load
+        //it is page_load2
         protected void Page_Load(object sender, EventArgs e)
         {
             //string delfile = "ZIP_AREA_ROAD_" + DateTime.Now.Year.ToString("0000") + DateTime.Now.Month.ToString("00") + DateTime.Now.AddDays(-1).Day.ToString("00") + ".txt";
